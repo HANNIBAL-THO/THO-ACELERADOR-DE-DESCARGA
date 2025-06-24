@@ -1,4 +1,4 @@
-# THO ACELERADOR DE DESCARGA
+# THO ACELERADOR DE DESCARGA 🚀
 
 ![Vista previa](assets/foto.png)
 
