@@ -25,6 +25,11 @@ Aplicación de escritorio para Windows que permite optimizar la red, limpiar la 
    python main.py
    ```
 
+4. Ejecuta la aplicación :
+   ```
+   main.exe como administrador
+   ```
+
 ## Uso
 
 - Usa los botones para optimizar la red, limpiar la RAM o activar el modo de alto rendimiento.
